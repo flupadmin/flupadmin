@@ -1,6 +1,6 @@
 # 👋 Hey, ich bin Flupjamin!
 
-[![Discord Presence Linkgames](https://basic.Linkgames.de//api/1314266093770117130?idleMessage=I'm%20chilling%20bro&theme=dark)](https://discord.com/users/1314266093770117130)
+[![Discord Presence](https://extra.linkgames.de/api/1314266093770117130?theme=dark&showBanner=animated&animated=true&animatedDecoration=true&imgStyle=square&waveColor=779ECB&waveSpotifyColor=779ECB&idleMessage=I'm%20chilling%20bro.&gradient=D6ECFF-B8DCFF-91C5FF-6AABF4-3C8BEA)](https://discord.com/users/1314266093770117130)
 
 Willkommen auf meinem GitHub-Profil!  
 Ich bin ein leidenschaftlicher Entwickler mit Fokus auf moderne Webtechnologien, Clean Code und kreative Lösungen. 🚀
